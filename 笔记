@@ -1,0 +1,7 @@
+meta name="viewport" content="width=sevice-width,initial-scale=1.0,maximum-scale=1.0,user-scaleable=no"
+packjson
+babel-runtime转义es6
+fastclick  针对移动端点击延迟300ms
+babel-polyfill 转义es6 api
+mainjs  import 
+fastclick.attach(document.body)就没有300ms延迟
